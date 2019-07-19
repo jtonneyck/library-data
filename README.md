@@ -2,7 +2,7 @@
 
 ## Step 1 - Creating the database and the first collection
 
-Create a database called `library` in Compass with 1 collection authors.
+Create a database called `library` in Compass with one collection called `authors`.
 
 ## Step 2 - Creating the second collection
 
